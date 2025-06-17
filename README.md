@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @PRANAYKAJE
-- 👀 I’m interested in web development
 - 💞️ I’m looking for organisation to show my coding skills
 - 📫 my gmail:pranaykaje9765@gmail.com
 - ⚡ Fun fact: I am on mission to turn caffeine into code
